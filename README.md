@@ -5,7 +5,7 @@ This project is a **historical record** of my learning journey, specifically foc
 ---
 
 ## 🚀 Demo
-[SEE DEMO HERE](https://cmp2007.github.io/Contact-Page-Form-Design-Responsive-)
+[SEE DEMO HERE](https://cmp2007.github.io/Contact-Page-Form-Design-Responsive-Layout/?)
 
 ---
 
