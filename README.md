@@ -11,7 +11,7 @@ This project is a **historical record** of my learning journey, specifically foc
 
 ### Screenshot
 
-![](./images/CapturaPractica-1.jpg)
+![](./img/CapturaPractica-1.jpg)
 
 ---
 
