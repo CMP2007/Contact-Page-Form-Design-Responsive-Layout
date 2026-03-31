@@ -9,6 +9,12 @@ This project is a **historical record** of my learning journey, specifically foc
 
 ---
 
+### Screenshot
+
+![](./images/CapturaPractica-1.jpg)
+
+---
+
 ## 📋 Evolution & Context Note
 > ⚠️ **Note on my trajectory:** This repository represents my past technical stage and does not reflect my current capabilities in Fullstack development (React/Node.js). In this exercise, I focused on mastering **form element customization**, **glassmorphism effects** (using rgba backgrounds), and **multi-breakpoint responsiveness**. I keep this code in its original state to document my growth.
 
