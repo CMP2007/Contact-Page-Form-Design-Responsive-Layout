@@ -1,5 +1,8 @@
 # Contact Page: Form Design & Responsive Layout
 
+> [!Note]
+>> This repository contains a legacy project from my early days as a programmer
+
 This project is a **historical record** of my learning journey, specifically focusing on complex form styling and advanced responsive layouts using CSS Grid. It marks the transition from simple UI components to functional page structures.
 
 ---
